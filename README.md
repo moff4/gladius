@@ -19,6 +19,30 @@ $ python3.8 -m pip install -r requirments.txt
 $ make
 ```
 
+## Конфигурация
+
+Настройка осуществляется через конфиругационный файл - `conf/private.py`  
+Пример настройки:
+```python
+
+# web-server settings
+# more at https://github.com/moff4/k2
+aeon = {
+    'host': 'localhost',
+    'port': 8080,
+}
+
+# SQL settings
+db = {  
+    'provider': 'mysql',
+    'host': 'localhost',
+    'port': 3306,
+    'user': 'admin',
+    'passwd': 'admin',
+    'db': 'hashtag',
+}
+``` 
+
 ## Запуск  
 
 ```bash
