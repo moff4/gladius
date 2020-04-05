@@ -5,7 +5,7 @@
 
 ## Описание рекомендательной системы
 
-[Гугл док](docs.google.com/document/d/1ghBJUfZedJay11J3kvcns7jFPd59_lWbxCI1tOmwvYg/)
+[Гугл док](https://docs.google.com/document/d/1ghBJUfZedJay11J3kvcns7jFPd59_lWbxCI1tOmwvYg/)
 
 ## Установка
 
