@@ -1,0 +1,8 @@
+__pycache__/
+.idea
+*/private.py
+*.txt
+*.tmp
+*.so
+*.dump
+*.n2v
